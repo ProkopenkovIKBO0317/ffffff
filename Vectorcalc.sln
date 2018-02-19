@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Vectorcalc", "Vectorcalc\Vectorcalc.vcxproj", "{40326211-44D4-4874-B0B3-8F182286E86A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40326211-44D4-4874-B0B3-8F182286E86A}.Debug|x64.ActiveCfg = Debug|x64
+		{40326211-44D4-4874-B0B3-8F182286E86A}.Debug|x64.Build.0 = Debug|x64
+		{40326211-44D4-4874-B0B3-8F182286E86A}.Debug|x86.ActiveCfg = Debug|Win32
+		{40326211-44D4-4874-B0B3-8F182286E86A}.Debug|x86.Build.0 = Debug|Win32
+		{40326211-44D4-4874-B0B3-8F182286E86A}.Release|x64.ActiveCfg = Release|x64
+		{40326211-44D4-4874-B0B3-8F182286E86A}.Release|x64.Build.0 = Release|x64
+		{40326211-44D4-4874-B0B3-8F182286E86A}.Release|x86.ActiveCfg = Release|Win32
+		{40326211-44D4-4874-B0B3-8F182286E86A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F4357AB-0C08-4788-900F-4605B0834227}
+	EndGlobalSection
+EndGlobal
